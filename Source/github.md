@@ -3,3 +3,4 @@
 [D3Ext_aesthetic-wallpaper](https://github.com/D3Ext/aesthetic-wallpapers)
 
 [niumoo_bing-wallpaper](https://github.com/niumoo/bing-wallpaper)
+🔗web: [bing-wallpaper](https://bing.wdbyte.com/zh-cn/)
