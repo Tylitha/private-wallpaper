@@ -7,3 +7,9 @@
 [Flicker](https://www.flickr.com/) register
 
 [pixiv](https://www.flickr.com/) register
+
+[niumoo_bing](https://bing.wdbyte.com/zh-cn/)
+
+[wallpapercave](https://wallpapercave.com/)
+
+[wallpaperaccess](https://wallpaperaccess.com/)
